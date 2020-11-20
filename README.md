@@ -1,5 +1,7 @@
 # Pong Python Game
 
+<img src="https://raw.githubusercontent.com/zimashima/python-turtle-pong/main/pong_screenshot.PNG" alt="Screenshot of Pong Game"/>
+
 ## Description
 
 This Pong Python Game was created following Following tutorial:
