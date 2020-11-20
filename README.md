@@ -16,7 +16,7 @@ I used **Python** and **Turtle** in creating this game following the tutorial.
 Currently everything works, but I plan to play around more with styling and changing size and improving the flow and smoothness :)
 
 ## Installation
-1. Git clone this project
-2. cd into the terminal
-3. run py main.py
+1. ```git clone``` this project
+2. In your terminal, cd into the project folder
+3. run ```py main.py```
 4. Enjoy!
